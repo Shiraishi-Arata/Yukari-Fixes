@@ -1,0 +1,26 @@
+{
+  "version_code": 103000,
+  "version_name": "1.3.0-yukari",
+  "title": {
+    "ja_jp": "Release 1.3.0-yukari"
+  },
+  "description": {
+    "ja_jp": "### 追加点：　\r\n-　**Mod互換性**：　\r\n-　新バージョンAxiomのネイティブサポートを修正しました。　\r\n-　Physics Modのネイティブサポートを修正しました。　\r\n-　Sable「Create Aeronautics」のネイティブサポートを修正しました。　\r\n-　古いMinecraftバージョンでのクラッシュを修正しました。　\r\n-　### デュアルLWJGL：　\r\n　-　デフォルトのLWJGLは3.3.6。　\r\n　-　新バージョンDistant　Horizo​nsはLWJGL　3.4.1を使用してください。"
+  },
+  "published_at": "2026-05-26T16:00:00Z",
+  "file_size": {
+    "all": 334372221,
+    "arm": 167929695,
+    "arm64": 175604468,
+    "x86": 155018684,
+    "x86_64": 181027547
+  },
+  "download_link": {
+    "all": "1g8CQiBNHVtuevXTPis2T3Zy2qm6oiqPZ",
+    "arm": "1J2yGUVkxA7AoXz6YyMq9V_I56ZpXS8Qa",
+    "arm64": "13AY0G9zJc_gJdTfPhErsgeFiW9dn5D9l",
+    "x86": "1SQ9GrrEee05NWhN0HYFsVzKd3zPhggPV",
+    "x86_64": "12V6zliArBAroq-uM_N1iQEEsnWoMSb32"
+  },
+  "pre_release": false
+}
