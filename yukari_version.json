@@ -6,7 +6,7 @@
     "ja_jp": "Release 1.3.1-yukari"
   },
   "description": {
-    "en_us": "",
+    "en_us": "test",
     "ja_jp": "### 修正点：　\r\n-　Adreno GPUのクラッシュを修正しました。"
   },
   "published_at": "2026-05-26T16:00:00Z",
